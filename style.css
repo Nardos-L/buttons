@@ -1,0 +1,44 @@
+button {
+    display: block;
+    font-size: 15px;
+    
+    
+}
+
+.button.button1 {
+    color: lightseagreen;
+    border-color: rgb(31, 202, 185);
+    font-weight: bold;
+    border-color: 1px lightseagreen;
+    border-radius: 20px ;
+    background-color:white;
+    padding: 10px 40px;
+    border-style: solid;
+    
+}
+
+#box1,#box2,#box3{
+    padding: 10px 20px;
+}
+#box1 {
+    padding-top: 30px;
+}
+
+.button.button2 {
+    color: white;
+    border-color: rgb(31, 202, 185);
+    border-radius: 50% ;
+    background-color: rgb(31, 202, 185);
+    border-style: solid;
+    font-size: 20px;
+    
+}
+
+.button.button3{
+    padding: 10px 40px;
+    background-color: rgb(88, 123, 230);
+    color: white;
+    border: 3px black;
+    box-shadow: 3px 3px black;
+    border-style: solid;
+}
